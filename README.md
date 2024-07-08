@@ -4,7 +4,7 @@ Hi 👋 My name is Retzam Danladi
 Full Stack Engineer
 -------------------
 
-* 🖥️  See my portfolio at [Portfolio website](http://retzam.online)
+* 🖥️  See my portfolio at [Portfolio website](http://retzam.info)
 * ✉️  You can contact me at [dretzam@gmail.com](mailto:dretzam@gmail.com)
 * 🧠  I'm learning LLM and Machine Learning
 
