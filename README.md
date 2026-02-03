@@ -6,7 +6,7 @@ Full Stack Engineer
 
 * 🖥️  See my portfolio at [Portfolio website](https://retzam.hashnode.dev/)
 * ✉️  You can contact me at [dretzam@gmail.com](mailto:dretzam@gmail.com)
-* 🧠  I'm learning LLM and Machine Learning
+* 🧠  Focusing on Machine Learning and LLMs now
 
 ### Skills
 
